@@ -336,12 +336,12 @@ class Board(object):
         #create a copy of the board to store the original state of the board
         self.copyBoard = self.G.copy()
         
-    def showBoard(self, pauseTime = 700):
+    def showBoard(self, board, pauseTime = 7):
         """display board
         """
-        pos=nx.spring_layout(self.G)
-        nx.draw(self.G, pos)
-        #nx.draw_networkx_edge_labels(self.G, pos)
+        pos=nx.spring_layout(board)
+        nx.draw(board, pos)
+        nx.draw_networkx_edge_labels(board, pos)
         pylab.ion()
         pylab.show()
         pylab.pause(pauseTime)
@@ -501,3 +501,7 @@ class PlayerBoard(Board):
         
         #Note: set of path edges will not be ordered
         return longestPath        
+
+if __name__ == "__main__":
+    import doctest
+    doctest.testmod()
