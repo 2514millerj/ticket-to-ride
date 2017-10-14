@@ -428,6 +428,10 @@ class Board(object):
     def iterEdges(self):
         """returns an interator over all edges and edge data"""
         return self.G.edges_iter(data = True)
+
+    def returnGraph(self):
+        """returns networkx graph object"""
+        return self.G
         
 class PlayerBoard(Board):
     """Creates a custom graph for each player to represent their progress"""

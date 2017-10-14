@@ -20,7 +20,7 @@ class Game(object):
         self.endingTrainCount      = 3 # ending condition to trigger final round
 
         self.pointsForLongestRoute = 10
-        self.startingNumOfTrains   = 15 #45
+        self.startingNumOfTrains   = 45
         self.deck                  = TTRCards.Cards(self.sizeDrawPile, self.maxWilds)
         
         self.board                 = TTRBoard.Board()
@@ -49,7 +49,7 @@ class Game(object):
     
     
     def printSepLine(self, toPrint):
-        print toPrint
+        print(toPrint)
             
     def advanceOnePlayer(self):
         """Updates self.posToMove"""
@@ -84,8 +84,6 @@ class Game(object):
         
         for player in self.players:
                 
-            #pick desination tickets
-            
             self.pickTickets(player, 2)
             
             self.advanceOnePlayer()
@@ -125,7 +123,7 @@ class Game(object):
             if scores[player][0] > longestPath:
                 longestPath = scores[player][0]
         
-        print scores
+        print(scores)
         
         for player in scores:
             if scores[player][0] == longestPath:
@@ -137,12 +135,12 @@ class Game(object):
         """prints out all of the non method attributes values for all players
         """
         for player in self.players:
-            print player.name
-            print "------------------------------"
+            print (player.name)
+            print ("------------------------------")
             for x in player.__dict__:
-                print x, player.__dict__[x]
+                print (x, player.__dict__[x])
                     
-            print "=============================="
+            print ("==============================")
 
     def playTurn(self, player):
         """player chooses 'cards', 'trains', 'tickets'
@@ -470,20 +468,21 @@ def playTTR():
 
     #before first turn, select 1, 2 or 3 destination tickets
     
-    print "\n Welcome to Ticket to Ride! \n"
+    print("\n Welcome to Ticket to Ride! \n")
     
     
     
-    numPlayers = raw_input("How many players will be playing today? "
-                            + "1,2,3,4,5 or 6? ")
+    numAIPlayers = raw_input("How many AI players will be playing? ")
+    numHumanPlayers = raw_input("How many human players will be playing?")
+    numPlayers = int(numHumanPlayers) + int(numAIPlayers)
 
     count = 0
-    while int(numPlayers) not in range(1,7) and count < 5:
+    while int(numPlayers) not in range(1,5) and count < 5:
         if numPlayers == 'exit': return "Thanks for playing!"
         numPlayers = raw_input("Please enter either 1,2,3,4,5 or 6: ")
         count += 1
     if count >= 5:
-        print "Default player count has been set to 2"
+        print("Default player count has been set to 2")
         numPlayers = 2
         
     game = Game(int(numPlayers))    
@@ -491,13 +490,12 @@ def playTTR():
     game.initialize()
     
     
-    
     player = game.players[game.posToMove]
 
     #main game loop
     while True:
-        print "\n_________________NEW PLAYER'S TURN_________________ \n"
-        print "It's your turn " + str(player.getName()) + "! "
+        print("\n_________________NEW PLAYER'S TURN_________________ \n")
+        print("It's your turn " + str(player.getName()) + "! ")
         game.playTurn(player)
         
         #condition to break out of loop
@@ -508,11 +506,11 @@ def playTTR():
         game.advanceOnePlayer()
         player = game.getCurrentPlayer()
     
-    print "\n This is the last round!  Everyone has one more turn! \n"
+    print("\n This is the last round!  Everyone has one more turn! \n")
     
     for i in range(len(game.players)):
-        print "\n_________________NEW PLAYER'S TURN_________________ \n"
-        print "This is your LAST TURN " + str(player.getName()) + "! "
+        print("\n_________________NEW PLAYER'S TURN_________________ \n")
+        print("This is your LAST TURN " + str(player.getName()) + "! ")
         game.playTurn(player)
         game.advanceOnePlayer()
         player = game.getCurrentPlayer()
@@ -539,9 +537,9 @@ def playTTR():
               if x.getPoints() == max(scores)]
 
     if len(winners) == 1:
-        print "The winner is " + str(winners[0])
+        print("The winner is " + str(winners[0]))
     else:
-        print "The winners are " + ' and '.join(winners)
+        print("The winners are " + ' and '.join(winners))
     
     
     print "\n =========== Data =========== \n"
