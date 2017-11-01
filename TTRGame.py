@@ -5,9 +5,10 @@ import TTRCards
 import TTRPlayer
 import collections
 
+import ticketAIPlayer
+
 class Game(object):
-    def __init__(self, numAIPlayers, numHumanPlayers):
-        
+    def __init__(self, numAIPlayers, numHumanPlayers, aiStrategies):
         self.sizeDrawPile          = 5
         self.maxWilds              = 3
         self.numTicketsDealt       = 3
@@ -20,10 +21,13 @@ class Game(object):
         
         self.deck                  = TTRCards.Cards(self.sizeDrawPile, self.maxWilds)
         self.board                 = TTRBoard.Board()
+        self.fullBoard             = TTRBoard.Board()
         self.numAIPlayers          = numAIPlayers
         self.numHumanPlayers       = numHumanPlayers
         self.numPlayers = numAIPlayers + numHumanPlayers
         self.players               = []
+
+        self.gameBoard             = TTRBoard.Board()
         
         self.posToMove             = 0
         
@@ -49,13 +53,15 @@ class Game(object):
 
         for position in range(numAIPlayers):
             type = 'AI'
+            strategy = aiStrategies[position]
             startingHand = self.deck.dealCards(self.sizeStartingHand)
             startingTickets = []  # self.deck.dealTickets(self.numTicketsDealt)
             # this is now done in initialize method below
             # occurs before first player's first move
             playerBoard = TTRBoard.PlayerBoard()
 
-            player = TTRPlayer.Player(startingHand,
+            if strategy == 'tickets':
+                player = ticketAIPlayer.ticketAIPlayer(startingHand,
                                       startingTickets,
                                       playerBoard,
                                       position,
@@ -141,7 +147,7 @@ class Game(object):
             if player.type == 'Human':
                 self.pickHumanTickets(player, 2)
             elif player.type == 'AI':
-                self.pickAITickets(player, 2)
+                player.pickAITickets(self.deck, 2)
             
             self.advanceOnePlayer()
 
@@ -258,21 +264,18 @@ class Game(object):
         player: player object
         """
 
-        choice = player.makeTurnChoice(self.board)
+        choice, options = player.makeTurnChoice(self.fullBoard, self.board)
 
         if choice == 'cards':
-            self.AIpickCards(player)
+            self.board, self.deck = player.AIpickCards(self.board, self.deck, options)
             return "Move complete"
-
         elif choice == 'trains':
-            self.AIplaceTrains(player)
+            self.board, self.deck = player.AIplaceTrains(self.board, self.deck, options, self.routeValues)
             return "Move complete"
         else:
-            self.AIpickTickets(player)
-            return "Move complete"
+            player.pickAITickets(self.deck)
 
-    def AIpickCards(self, player):
-        return
+        return "Move complete"
 
     def pickCards(self, player):
         count = 0 # a way out of the loop if 5 invalid responses
@@ -566,23 +569,4 @@ class Game(object):
         print "All of your tickets: "
         self.printSepLine(player.getTickets())
         
-        return "Move complete"
-
-    def pickAITickets(self, player, minNumToSelect=1):
-        tickets = self.deck.dealTickets(3)
-        tickets = {x[0]: x[1] for x in zip(range(len(tickets)), tickets)}
-
-        choices = player.pickTickets(tickets, minNumToSelect)
-
-        for ticket in tickets.values():
-            if ticket in choices:
-                player.addTicket(ticket)
-            else:
-                self.deck.addToTicketDiscard(ticket)
-
-        print len(self.deck.tickets), len(self.deck.ticketDiscardPile)
-
-        print "All of your tickets: "
-        self.printSepLine(player.getTickets())
-
         return "Move complete"

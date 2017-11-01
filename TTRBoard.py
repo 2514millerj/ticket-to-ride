@@ -10,7 +10,7 @@ class Board(object):
                         'Helena',        'Houston',        'Kansas City', 
                         'Las Vegas',     'Little Rock',    'Los Angeles', 
                         'Miami',         'Montreal',       'Nashville',
-                        'New Orleans',   'New York',       'Oklahoma City',
+                        'New Orleans',   'New York City',       'Oklahoma City',
                         'Omaha',         'Phoenix',        'Pittsburgh',
                         'Portland',      'Raleigh',        'Saint Louis', 
                         'Salt Lake City','San Francisco',  'Santa Fe',
@@ -249,7 +249,7 @@ class Board(object):
                         weight = 2, 
                         edgeColors = ['grey', 'grey'])
         
-        self.G.add_edge('Montreal', 'New York', 
+        self.G.add_edge('Montreal', 'New York City',
                         weight = 3, 
                         edgeColors = ['blue'])
         
@@ -261,15 +261,15 @@ class Board(object):
                         weight = 4, 
                         edgeColors = ['white'])
         
-        self.G.add_edge('Boston', 'New York', 
+        self.G.add_edge('Boston', 'New York City',
                         weight = 2, 
                         edgeColors = ['yellow', 'red'])
         
-        self.G.add_edge('New York', 'Pittsburgh', 
+        self.G.add_edge('New York City', 'Pittsburgh',
                         weight = 2, 
                         edgeColors = ['green', 'white'])
         
-        self.G.add_edge('New York', 'Washington', 
+        self.G.add_edge('New York City', 'Washington',
                         weight = 2, 
                         edgeColors = ['orange', 'black'])
         
@@ -341,7 +341,7 @@ class Board(object):
         """
         pos=nx.spring_layout(board)
         nx.draw(board, pos)
-        nx.draw_networkx_edge_labels(board, pos)
+        nx.draw_networkx(board, pos)
         pylab.ion()
         pylab.show()
         pylab.pause(pauseTime)
@@ -364,6 +364,8 @@ class Board(object):
                                 % (city1, city2))
         
         posColors = self.getEdgeColors(city1, city2)
+        print("{} --- {}".format(city1, city2))
+        print(posColors)
         
         #if the edge is grey, accept any color and remove grey
         if "grey" in posColors:

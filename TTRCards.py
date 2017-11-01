@@ -20,13 +20,13 @@ class Cards(object):
         self.tickets = [('Los Angeles',    'New York City', 21), 
                         ('Duluth',         'Houston',        8), 
                         ('Sault St Marie', 'Nashville',      8), 
-                        ('New York',       'Atlanta',        6), 
+                        ('New York City',       'Atlanta',        6),
                         ('Portland',       'Nashville',     17), 
                         ('Vancouver',      'Montreal',      20), 
                         ('Duluth',         'El Paso',       10), 
                         ('Toronto',        'Miami',         10), 
                         ('Portland',       'Phoenix',       11), 
-                        ('Dallas',         'New York City', 11), 
+                        ('Dallas',         'New York City', 11),
                         ('Calgary',        'Salt Lake City', 7), 
                         ('Calgary',        'Phoenix',       13), 
                         ('Los Angeles',    'Miami',         20), 
@@ -40,7 +40,7 @@ class Cards(object):
                         ('Boston',         'Miami',         12), 
                         ('Chicago',        'New Orleans',    7), 
                         ('Montreal',       'Atlanta',        9), 
-                        ('Seattle',        'New York',      22), 
+                        ('Seattle',        'New York City', 22),
                         ('Denver',         'El Paso',        4), 
                         ('Helena',         'Los Angeles',    8), 
                         ('Winnipeg',       'Houston',       12), 
@@ -71,6 +71,7 @@ class Cards(object):
             return self.cards.pop()
         except IndexError:
             print "\n There are no more cards in the deck! \n"
+            return None
     
     def dealTicket(self):
         """returns a single destination ticket"""
