@@ -1,6 +1,12 @@
 TicketToRide
 ============
 
+How to run: python AIGame.py --num_ai 2 --num_human 0 --ai_strategies tickets
+
+Current AI Supported:
+- ticket focused ==> AI will work to complete tickets and draw new ones when finished
+
+================================================================
 Python simulation of the original Ticket To Ride board game.
 
 Python 2.7.3

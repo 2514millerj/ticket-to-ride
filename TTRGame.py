@@ -52,7 +52,7 @@ class Game(object):
             self.players.append(player)
 
         for position in range(numAIPlayers):
-            type = 'AI'
+            type_ = 'AI'
             strategy = aiStrategies[position]
             startingHand = self.deck.dealCards(self.sizeStartingHand)
             startingTickets = []  # self.deck.dealTickets(self.numTicketsDealt)
@@ -66,7 +66,7 @@ class Game(object):
                                       playerBoard,
                                       position,
                                       self.startingNumOfTrains,
-                                      type
+                                      type_
                                       )
             self.players.append(player)
 
