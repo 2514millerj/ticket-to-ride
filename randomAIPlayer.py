@@ -24,23 +24,20 @@ class randomAIPlayer(Player):
     def getPathsInProgress(self, fullBoard, board):
         hand=self.getHand()
         wildCnt=hand['wild']
-        edgeCompletion
+        edgeCompletion = []
         
-        for edge in board.getEdges:
+        for edge in board.getEdges():
+            color = board.getEdgeColors(edge[0], edge[1])
+            weight = board.getEdgeWeight(edge[0], edge[1])
             for cardType in hand:
                         numCardsInHand = hand[cardType]
 
                         for c in color:
-                            if (cardType == c or c == 'grey') and numCardsInHand + wildCnt >= weight:
-                                pctDone = numCardsInHand / float(weight)
-                                edgeCompletion.append([city1, city2, pctDone, cardType, weight])
-                                added = True
-                            elif (cardType == c or c == 'grey') and numCardsInHand + wildCnt < weight:
-                                pctDone = numCardsInHand / float(weight)
-                                edgeCompletion.append([city1, city2, pctDone, cardType, weight])
+                            pctDone = numCardsInHand / float(weight)
+                            if (cardType == c or c == 'grey') and pctDone >= 1:
+                                edgeCompletion.append([edge[0], edge[1], pctDone, cardType, weight])
                                 added = True
 
-        edgeCompletion=edgeCompletion[2]>=1
         return edgeCompletion
 
     def makeTurnChoice(self, fullBoard, board):
@@ -50,9 +47,8 @@ class randomAIPlayer(Player):
 
         if len(paths) == 0:
             return "cards", []
-        
-        else
-            x=randint(0, len(paths))
+        else:
+            x=randint(0, len(paths) - 1)
             return "trains", paths[x]
         
 
@@ -65,49 +61,17 @@ class randomAIPlayer(Player):
         print(availableCards)
         print(self.getHand())
 
-        for op in options:
-            try:
-                routeColor = board.getEdgeColors(op[0], op[1])
-            except:
-                continue
-            if op[2] >= max:
-                max = op[0]
-                maxOp = op
-            for c in routeColor:
-                if c in availableCards and count < 2:
-                    self.addCardToHand(c)
-                    if deck.pickFaceUpCard(c) == None:
-                        exit()
-                    count += 1
-                    break
-
-        if count == 0 and 'wild' in availableCards:
-            self.addCardToHand('wild')
-            if deck.pickFaceUpCard('wild') == None:
-                exit()
-            count = 2
-
         while count < 2:
-            hand = self.getHand()
-            mostCommon = hand.most_common(1)[0][0]
-            try:
-                colors = board.getEdgeColors(maxOp[0], maxOp[1])
-            except:
-                continue
-            if 'grey' in colors:
-                if mostCommon in availableCards:
-                    self.addCardToHand(mostCommon)
-                    if deck.pickFaceUpCard(mostCommon) == None:
-                        exit()
-                    count += 1
-                else:
-                    chosen = deck.pickFaceDown()
-                    self.addCardToHand(chosen)
-                    count += 1
+            availableCards = deck.getDrawPile()
+            choice = randint(0, len(availableCards) -1)
+            print(availableCards[choice])
+            if availableCards[choice] == "wild" and count == 0:
+                chosen = deck.pickFaceUpCard(availableCards[choice])
+                count = 2
             else:
-                chosen = deck.pickFaceDown()
-                self.addCardToHand(chosen)
+                chosen = deck.pickFaceUpCard(availableCards[choice])
                 count += 1
+            self.addCardToHand(chosen)
 
         print(self.getHand())
 

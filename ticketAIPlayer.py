@@ -123,6 +123,7 @@ class ticketAIPlayer(Player):
         print(self.getHand())
 
         for op in options:
+            availableCards = deck.getDrawPile()
             try:
                 routeColor = board.getEdgeColors(op[0], op[1])
             except:
@@ -138,6 +139,7 @@ class ticketAIPlayer(Player):
                     count += 1
                     break
 
+        availableCards = deck.getDrawPile()
         if count == 0 and 'wild' in availableCards:
             self.addCardToHand('wild')
             if deck.pickFaceUpCard('wild') == None:
@@ -145,12 +147,13 @@ class ticketAIPlayer(Player):
             count = 2
 
         while count < 2:
+            availableCards = deck.getDrawPile()
             hand = self.getHand()
             mostCommon = hand.most_common(1)[0][0]
             try:
                 colors = board.getEdgeColors(maxOp[0], maxOp[1])
             except:
-                continue
+                print("error")
             if 'grey' in colors:
                 if mostCommon in availableCards:
                     self.addCardToHand(mostCommon)
@@ -226,7 +229,7 @@ class ticketAIPlayer(Player):
 
         if count == completed:
             print("***All tickets completed, drawing new ones***")
-            deck = self.pickAITickets(2)
+            deck = self.pickAITickets(deck, 2)
 
         #raw_input("Continue?")
         return board, deck

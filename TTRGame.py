@@ -6,6 +6,8 @@ import TTRPlayer
 import collections
 
 import ticketAIPlayer
+import routeAIPlayer
+import randomAIPlayer
 
 class Game(object):
     def __init__(self, numAIPlayers, numHumanPlayers, aiStrategies):
@@ -68,6 +70,23 @@ class Game(object):
                                       self.startingNumOfTrains,
                                       type_
                                       )
+            elif strategy == 'route':
+                player = routeAIPlayer.routeAIPlayer(startingHand,
+                                                       startingTickets,
+                                                       playerBoard,
+                                                       position,
+                                                       self.startingNumOfTrains,
+                                                       type_
+                                                       )
+            elif strategy == 'random':
+                player = randomAIPlayer.randomAIPlayer(startingHand,
+                                                     startingTickets,
+                                                     playerBoard,
+                                                     position,
+                                                     self.startingNumOfTrains,
+                                                     type_
+                                                     )
+
             self.players.append(player)
 
         
