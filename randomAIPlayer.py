@@ -38,6 +38,7 @@ class randomAIPlayer(Player):
                                 edgeCompletion.append([edge[0], edge[1], pctDone, cardType, weight])
                                 added = True
 
+        print(edgeCompletion)
         return edgeCompletion
 
     def makeTurnChoice(self, fullBoard, board):
@@ -48,8 +49,12 @@ class randomAIPlayer(Player):
         if len(paths) == 0:
             return "cards", []
         else:
-            x=randint(0, len(paths) - 1)
-            return "trains", paths[x]
+            while True:
+                x=randint(0, len(paths) - 1)
+                if paths[x][2] >= 1 and paths[x][4] <= self.numTrains:
+                    return "trains", paths[x]
+                elif paths[x][2] >= 1 and paths[x][4] > self.numTrains:
+                    return "cards", []
         
 
     def AIpickCards(self, board, deck, options):
@@ -112,7 +117,7 @@ class randomAIPlayer(Player):
         # claim route for player (see dedicated method within Game class)
         self.playerBoard.addEdge(city1, city2, routeDist, color)
 
-        board.showBoard(self.playerBoard.G, 0.5)
+        #board.showBoard(self.playerBoard.G, 0.5)
         #self.board.showBoard(self.board.G, 2)
 
         print "Number of trains left to play: " + str(self.getNumTrains())
@@ -133,12 +138,14 @@ class randomAIPlayer(Player):
 
         if count == completed:
             print("***All tickets completed, drawing new ones***")
-            deck = self.pickAITickets(2)
+            deck = self.pickAITickets(deck)
 
         #raw_input("Continue?")
         return board, deck
 
     def pickAITickets(self, deck, minNumToSelect=1):
+        print(deck)
+        print(self.type)
         tickets = deck.dealTickets(3)
         tickets = {x[0]: x[1] for x in zip(range(len(tickets)), tickets)}
 

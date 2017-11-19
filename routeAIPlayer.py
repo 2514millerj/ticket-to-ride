@@ -3,6 +3,7 @@ import collections
 import TTRBoard
 import networkx as nx
 import ast
+from random import randint
 
 #
 # AI that focuses on completing longest routes
@@ -33,6 +34,7 @@ class routeAIPlayer(Player):
         #   and the percentage of completion of each edge
         edgeWeight = []
         maxWeight = 0
+        numWild = hand['wild']
         for route in edges:
             added = False
             weight = board.getEdgeWeight(route[0], route[1])
@@ -43,7 +45,7 @@ class routeAIPlayer(Player):
                 numCardsInHand = hand[cardType]
                 for c in color:
                     if cardType == c or c == 'grey':
-                        pctDone = numCardsInHand / float(weight)
+                        pctDone = (numCardsInHand + numWild) / float(weight)
                         routeColor = c
                         added = True
 
@@ -62,15 +64,48 @@ class routeAIPlayer(Player):
         print("")
         return options
 
+    def getAllPaths(self, fullBoard, board):
+        hand = self.getHand()
+        wildCnt = hand['wild']
+        edgeCompletion = []
+
+        for edge in board.getEdges():
+            color = board.getEdgeColors(edge[0], edge[1])
+            weight = board.getEdgeWeight(edge[0], edge[1])
+            for cardType in hand:
+                numCardsInHand = hand[cardType]
+
+                for c in color:
+                    pctDone = numCardsInHand / float(weight)
+                    if (cardType == c or c == 'grey') and pctDone >= 1:
+                        edgeCompletion.append([edge[0], edge[1], pctDone, cardType, weight])
+                        added = True
+
+        print(edgeCompletion)
+        return edgeCompletion
+
     def makeTurnChoice(self, fullBoard, board):
         self.numTurns += 1
         print("Turn number {}".format(self.numTurns))
         paths = self.getPathsInProgress(fullBoard, board)
 
+        pathsTooLong = False
         for p in paths:
             # if AI has enough cards in hand to play route
             if p[2] >= 1 and p[3] <= self.numTrains:
                 return "trains", p
+            elif p[3] > self.numTrains and p[2] >= 1:
+                pathsTooLong = True
+
+        if pathsTooLong == True:
+            paths = self.getAllPaths(fullBoard, board)
+            if len(paths) == 0:
+                return "cards", []
+            else:
+                for i in range(len(paths) * 3):
+                    x = randint(0, len(paths) - 1)
+                    if paths[x][2] >= 1 and paths[x][3] <= self.numTrains:
+                        return "trains", paths[x]
 
         return "cards", paths
 
@@ -94,6 +129,9 @@ class routeAIPlayer(Player):
                 maxOp = op
             for c in routeColor:
                 if c in availableCards and count < 2:
+                    if c == 'grey':
+                        print(self.getHand())
+                        exit()
                     self.addCardToHand(c)
                     deck.pickFaceUpCard(c)
                     count += 1
@@ -104,6 +142,7 @@ class routeAIPlayer(Player):
             deck.pickFaceUpCard('wild')
             count = 2
 
+        chosen = None
         while count < 2:
             availableCards = deck.getDrawPile()
             hand = self.getHand()
@@ -119,6 +158,10 @@ class routeAIPlayer(Player):
                         exit()
                     count += 1
                 else:
+                    if chosen == 'grey':
+                        print("c6")
+                        print(self.getHand())
+                        exit()
                     chosen = deck.pickFaceDown()
                     self.addCardToHand(chosen)
                     count += 1
@@ -145,6 +188,12 @@ class routeAIPlayer(Player):
 
         numColor = routeDist - numWild
 
+        if color == 'grey':
+            color = hand.most_common(1)[0][0]
+
+        print(color)
+        print(color)
+
         # remove route from main board
         board.removeEdge(city1, city2, color)
 
@@ -152,6 +201,9 @@ class routeAIPlayer(Player):
         self.addPoints(routeValues[routeDist])
 
         # remove cards from player's hand
+        if color == 'grey':
+            color = hand.most_common(1)[0][0]
+
         self.removeCardsFromHand(color, numColor)
         self.removeCardsFromHand('wild', numWild)
 
@@ -167,7 +219,7 @@ class routeAIPlayer(Player):
         # claim route for player (see dedicated method within Game class)
         self.playerBoard.addEdge(city1, city2, routeDist, color)
 
-        board.showBoard(self.playerBoard.G, 0.5)
+        #board.showBoard(self.playerBoard.G, 0.5)
         #self.board.showBoard(self.board.G, 2)
 
         print "Number of trains left to play: " + str(self.getNumTrains())

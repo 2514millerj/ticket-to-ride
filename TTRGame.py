@@ -134,9 +134,11 @@ class Game(object):
         """Before game turns starts, enter names and pick destination tickets
         """
         selectedNames = []
+        ccount = 1
         for player in self.players:
             #pick names
             count = 0
+            '''
             if player.type == 'Human':
                 name = raw_input("Please enter a name for Human Player "
                             + str(self.posToMove + 1)
@@ -153,7 +155,8 @@ class Game(object):
                                 + str(self.posToMove + 1) 
                                 + " please enter your name: (Must be unique) "
                                 )
-                count += 1
+                count += 1'''
+            name = 'p' + str(ccount)
             if len(name) > 50 or name == '' or name in selectedNames:
                 name = str(self.posToMove + 1)
                 player.setPlayerName(name)
@@ -169,6 +172,7 @@ class Game(object):
                 player.pickAITickets(self.deck, 2)
             
             self.advanceOnePlayer()
+            ccount += 1
 
     def printSepLine(self, group):
         """prints each item of group on its own line
@@ -194,6 +198,7 @@ class Game(object):
         adds/subtracts from player's points
         """
         for ticket in player.tickets:
+            print(ticket)
             city1 = ticket[0]
             city2 = ticket[1]
             value = ticket[2]

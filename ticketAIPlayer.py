@@ -3,6 +3,7 @@ import collections
 import TTRBoard
 import networkx as nx
 import ast
+from random import randint
 
 #
 # AI that focuses on completing tickets
@@ -49,6 +50,8 @@ class ticketAIPlayer(Player):
 
             added = False
 
+            numWild = hand['wild']
+            print("Number of wild cards in hand: " + str(numWild))
             for city in enumerate(path):
                 edgePlayable = True
                 try:
@@ -70,32 +73,46 @@ class ticketAIPlayer(Player):
                 for cardType in hand:
                     numCardsInHand = hand[cardType]
 
+                    if cardType == 'wild':
+                        continue
+
                     for c in color:
                         if (cardType == c or c == 'grey') and numCardsInHand + wildCnt >= weight:
-                            pctDone = numCardsInHand / float(weight)
+                            pctDone = (numCardsInHand + numWild) / float(weight)
                             edgeCompletion.append([city1, city2, pctDone, cardType, weight])
                             added = True
                         elif (cardType == c or c == 'grey') and numCardsInHand + wildCnt < weight:
-                            pctDone = numCardsInHand / float(weight)
+                            pctDone = (numCardsInHand + numWild) / float(weight)
                             edgeCompletion.append([city1, city2, pctDone, cardType, weight])
                             added = True
 
                 if added is False:
-                    edgeCompletion.append([city1, city2, 0, color[0]])
+                    edgeCompletion.append([city1, city2, numWild / float(board.getEdgeWeight(city1, city2)), color[0], board.getEdgeWeight(city1, city2)])
 
-        # check for duplicates and weight
-        totals = {}
-        for v in edgeCompletion:
-            totals[str(v)] = totals.get(str(v), 0) + 1
 
-        weightedList = sorted(map(list, totals.items()))
-        for index, edge in enumerate(weightedList):
-            weightedList[index] = [ast.literal_eval(edge[0]), edge[1]]
-
-        print("Percent towards edge completion: " + str(weightedList))
-
+        print(edgeCompletion)
         print
         ''
+        return edgeCompletion
+
+    def getAllPaths(self, fullBoard, board):
+        hand = self.getHand()
+        wildCnt = hand['wild']
+        edgeCompletion = []
+
+        for edge in board.getEdges():
+            color = board.getEdgeColors(edge[0], edge[1])
+            weight = board.getEdgeWeight(edge[0], edge[1])
+            for cardType in hand:
+                numCardsInHand = hand[cardType]
+
+                for c in color:
+                    pctDone = numCardsInHand / float(weight)
+                    if (cardType == c or c == 'grey') and pctDone >= 1:
+                        edgeCompletion.append([edge[0], edge[1], pctDone, cardType, weight])
+                        added = True
+
+        print(edgeCompletion)
         return edgeCompletion
 
     def makeTurnChoice(self, fullBoard, board):
@@ -106,10 +123,23 @@ class ticketAIPlayer(Player):
         if len(paths) == 0:
             return "ticket", []
 
+        pathsTooLong = False
         for p in paths:
             # if AI has enough cards in hand to play route
             if p[2] >= 1 and p[4] <= self.numTrains:
                 return "trains", p
+            elif p[2] >= 1 and p[4] > self.numTrains:
+                pathsTooLong = True
+
+        if pathsTooLong == True:
+            paths = self.getAllPaths(fullBoard, board)
+            if len(paths) == 0:
+                return "cards", []
+            else:
+                for i in range(len(paths) * 3):
+                    x = randint(0, len(paths) - 1)
+                    if paths[x][2] >= 1 and paths[x][4] <= self.numTrains:
+                        return "trains", paths[x]
 
         return "cards", paths
 
@@ -146,6 +176,7 @@ class ticketAIPlayer(Player):
                 exit()
             count = 2
 
+        chosen = None
         while count < 2:
             availableCards = deck.getDrawPile()
             hand = self.getHand()
@@ -186,6 +217,9 @@ class ticketAIPlayer(Player):
 
         numColor = routeDist - numWild
 
+        if color == 'grey':
+            color = hand.most_common(1)[0][0]
+
         # remove route from main board
         board.removeEdge(city1, city2, color)
 
@@ -208,7 +242,7 @@ class ticketAIPlayer(Player):
         # claim route for player (see dedicated method within Game class)
         self.playerBoard.addEdge(city1, city2, routeDist, color)
 
-        board.showBoard(self.playerBoard.G, 0.5)
+        #board.showBoard(self.playerBoard.G, 0.5)
         #self.board.showBoard(self.board.G, 2)
 
         print "Number of trains left to play: " + str(self.getNumTrains())
@@ -241,6 +275,8 @@ class ticketAIPlayer(Player):
         choices = self.pickTickets(tickets, minNumToSelect)
 
         for ticket in tickets.values():
+            if ticket == None:
+                continue
             if ticket in choices:
                 self.addTicket(ticket)
             else:
