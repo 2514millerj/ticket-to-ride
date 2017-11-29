@@ -97,9 +97,9 @@ if __name__ == "__main__":
 
     ai_strategies = args.ai_strategies.split(',')
 
-    logfile = open('TTR_log_' + str(ai_strategies[0]) + "_" + str(ai_strategies[1]) + ".csv", 'w')
+    logfile = open('TTR_log_' + str(ai_strategies[0]) + "_" + str(ai_strategies[1]) + ".csv", 'a')
     headers = "game_num,strategy1,strategy2,points1,points2\n"
-    logfile.write(headers)
+    #logfile.write(headers)
     for i in range(500):
         playTTR(args.num_ai, args.num_human, ai_strategies, logfile, i)
     logfile.close()
