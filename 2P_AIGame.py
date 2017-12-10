@@ -61,6 +61,7 @@ def playTTR(num_ai, num_human, ai_strategies, logfile, gameNum):
     scores = []
     count = 0
     for player in game.players:
+        results = ""
         print(str(player.getName())
               + " had "
               + str(player.getPoints())
@@ -68,6 +69,11 @@ def playTTR(num_ai, num_human, ai_strategies, logfile, gameNum):
               )
         score = player.getPoints()
         scores.append(score)
+
+        edges = player.playerBoard.getEdges()
+        for edge in edges:
+            results += str(edge[0]) + "," + str(edge[1]) + "-"
+        logfile.write(str(player.getName()) + ":" + results + "\n")
 
     winners = [x.getName() for x in game.players
                if x.getPoints() == max(scores)]
@@ -84,8 +90,8 @@ def playTTR(num_ai, num_human, ai_strategies, logfile, gameNum):
 
     print
     "\n =========== fin =========== \n"
-    results = str(gameNum) + "," + str(ai_strategies[0]) + "," + ai_strategies[1] + "," + ai_strategies[2] + "," + str(scores[0]) + "," + str(scores[1]) + "," + str(scores[2]) + "\n"
-    logfile.write(results)
+    #results = str(gameNum) + "," + str(ai_strategies[0]) + "," + ai_strategies[1] + "," + str(scores[0]) + "," + str(scores[1]) + '\n'
+    #logfile.write(results)
 
 
 if __name__ == "__main__":
@@ -97,7 +103,7 @@ if __name__ == "__main__":
 
     ai_strategies = args.ai_strategies.split(',')
 
-    logfile = open('TTR_log_' + str(ai_strategies[0]) + "_" + str(ai_strategies[1]) + "_" + str(ai_strategies[2]) + ".csv", 'a')
+    logfile = open('TTR_edges_' + str(ai_strategies[0]) + "_" + str(ai_strategies[1])  + ".csv", 'w')
     headers = "game_num,strategy1,strategy2,points1,points2\n"
     #logfile.write(headers)
     for i in range(500):

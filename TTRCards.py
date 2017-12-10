@@ -81,6 +81,13 @@ class Cards(object):
             return self.tickets.pop()
         except IndexError:
             print "\n There are no more tickets in the deck! \n"
+            return None
+
+    def ticketAvailable(self):
+        if len(self.tickets) == 0 and len(self.ticketDiscardPile) == 0:
+            return False
+        else:
+            return True
     
     def dealCards(self, numCards):
         """returns a list of (numCards) cards

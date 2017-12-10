@@ -8,7 +8,7 @@ from random import randint
 #
 # AI that focuses on completing longest routes
 #
-class routeAIPlayer(Player):
+class mixedAIPlayer(Player):
 
     """
     AI Player Logic
@@ -22,6 +22,49 @@ class routeAIPlayer(Player):
         return choices
 
     def getPathsInProgress(self, fullBoard, board):
+        tickets = self.getTickets()
+        hand = self.getHand()
+        print(hand)
+        edges = board.getEdges()
+
+        wildCnt = hand['wild']
+        count = 0
+
+        # record each edge on the shortest path between cities on ticket
+        #   and the percentage of completion of each edge
+        edgeWeight = []
+        maxWeight = 0
+        numWild = hand['wild']
+        for route in edges:
+            added = False
+            weight = board.getEdgeWeight(route[0], route[1])
+            if weight > maxWeight:
+                maxWeight = weight
+            color = board.getEdgeColors(route[0], route[1])
+            for cardType in hand:
+                numCardsInHand = hand[cardType]
+                for c in color:
+                    if cardType == c or c == 'grey':
+                        pctDone = (numCardsInHand + numWild) / float(weight)
+                        routeColor = c
+                        added = True
+
+            if added == False:
+                routeColor = color[0]
+                pctDone = 0
+
+            edgeWeight.append([route[0], route[1], pctDone, weight, routeColor])
+
+        options = []
+        for route in edgeWeight:
+            if route[3] == maxWeight:
+                options.append(route)
+
+        print(options)
+        print("")
+        return options
+
+    def getLongestPaths(self, fullBoard, board):
         tickets = self.getTickets()
         hand = self.getHand()
         print(hand)
@@ -87,25 +130,66 @@ class routeAIPlayer(Player):
     def makeTurnChoice(self, fullBoard, board, deck):
         self.numTurns += 1
         print("Turn number {}".format(self.numTurns))
-        paths = self.getPathsInProgress(fullBoard, board)
 
-        pathsTooLong = False
-        for p in paths:
-            # if AI has enough cards in hand to play route
-            if p[2] >= 1 and p[3] <= self.numTrains:
-                return "trains", p
-            elif p[3] > self.numTrains and p[2] >= 1:
-                pathsTooLong = True
 
-        if pathsTooLong == True:
-            paths = self.getAllPaths(fullBoard, board)
-            if len(paths) == 0:
-                return "cards", []
-            else:
-                for i in range(len(paths) * 3):
-                    x = randint(0, len(paths) - 1)
-                    if paths[x][2] >= 1 and paths[x][3] <= self.numTrains:
-                        return "trains", paths[x]
+        #determine whether all tickets drawn have been completed or not
+        count = 0
+        completed = 0
+        for ticket in self.getTickets():
+            count += 1
+            try:
+                if self.playerBoard.hasPath(ticket[0], ticket[1]) and not self.getTickets()[ticket]:
+                    self.completeTicket(ticket)
+                    completed += 1
+                elif self.playerBoard.hasPath(ticket[0], ticket[1]):
+                    completed += 1
+            except:
+                continue
+
+        if count == completed:
+            paths = self.getLongestPaths(fullBoard,board)
+            #act as route player
+            pathsTooLong = False
+            for p in paths:
+                # if AI has enough cards in hand to play route
+                if p[2] >= 1 and p[3] <= self.numTrains:
+                    return "trains", p
+                elif p[3] > self.numTrains and p[2] >= 1:
+                    pathsTooLong = True
+
+            #act as a random player if not enough trains
+            if pathsTooLong == True:
+                paths = self.getAllPaths(fullBoard, board)
+                if len(paths) == 0:
+                    return "cards", []
+                else:
+                    for i in range(len(paths) * 3):
+                        x = randint(0, len(paths) - 1)
+                        if paths[x][2] >= 1 and paths[x][3] <= self.numTrains:
+                            return "trains", paths[x]
+        else:
+            #act as ticket player
+            paths = self.getPathsInProgress(fullBoard, board)
+
+            pathsTooLong = False
+            for p in paths:
+                # if AI has enough cards in hand to play route
+                if p[2] >= 1 and p[3] <= self.numTrains:
+                    return "trains", p
+                #otherwise if AI does not have enough trains to play as ticket player
+                elif p[3] > self.numTrains and p[2] >= 1:
+                    pathsTooLong = True
+
+            #act as random player
+            if pathsTooLong == True:
+                paths = self.getAllPaths(fullBoard, board)
+                if len(paths) == 0:
+                    return "cards", []
+                else:
+                    for i in range(len(paths) * 3):
+                        x = randint(0, len(paths) - 1)
+                        if paths[x][2] >= 1 and paths[x][3] <= self.numTrains:
+                            return "trains", paths[x]
 
         return "cards", paths
 

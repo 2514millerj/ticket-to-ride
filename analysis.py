@@ -1,5 +1,9 @@
 import pandas
 
+from itertools import product
+
+strategies = ["tickets", "random", "route"]
+
 games = [["tickets", "random"],
          ["route", "random"],
          ["route", "route"],
@@ -9,6 +13,13 @@ games = [["tickets", "random"],
          ["route", "tickets"],
          ["random", "route"],
          ["random", "tickets"]]
+
+mixed_games = [["mixed", "random"],
+               ["mixed", "tickets"],
+               ["mixed", "route"],
+               ["random", "mixed"],
+               ["tickets", "mixed"],
+               ["route", "mixed"]]
 
 def getStats(game):
     data_df = pandas.read_csv("TTR_log_" + game[0] + "_" + game[1] + ".csv")
@@ -40,6 +51,8 @@ def getStats(game):
     print("Win percentage for " + data_df['strategy1'][0] + ": " + str(wins1/float(total)))
     print("Win percentage for " + data_df['strategy2'][0] + ": " + str(wins2 / float(total)))
 
-for game in games:
+'''for game in mixed_games:
     getStats(game)
-    print("")
+    print("")'''
+
+getStats(["mixed", "mixed"])

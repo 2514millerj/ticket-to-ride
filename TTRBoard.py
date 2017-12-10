@@ -27,311 +27,388 @@ class Board(object):
 
         self.G.add_edge('Vancouver', 'Seattle', 
                         weight = 1, 
-                        edgeColors = ['grey', 'grey'])
+                        edgeColors = ['grey', 'grey'],
+                        count = 0)
                         
         self.G.add_edge('Vancouver', 'Calgary', 
                         weight = 3, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
                         
         self.G.add_edge('Calgary', 'Seattle', 
                         weight = 4, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
                         
         self.G.add_edge('Calgary', 'Winnipeg', 
                         weight = 6, 
-                        edgeColors = ['white'])
+                        edgeColors = ['white'],
+                        count = 0)
                         
         self.G.add_edge('Calgary', 'Helena', 
                         weight = 4, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
         
         self.G.add_edge('Helena', 'Seattle', 
                         weight = 6, 
-                        edgeColors = ['yellow'])
+                        edgeColors = ['yellow'],
+                        count = 0)
         
         self.G.add_edge('Portland', 'Seattle', 
                         weight = 1, 
-                        edgeColors = ['grey', 'grey'])
+                        edgeColors = ['grey', 'grey'],
+                        count = 0)
         
         self.G.add_edge('Portland', 'San Francisco', 
                         weight = 5, 
-                        edgeColors = ['green', 'purple'])
+                        edgeColors = ['green', 'purple'],
+                        count = 0)
         
         self.G.add_edge('Portland', 'Salt Lake City', 
                         weight = 6, 
-                        edgeColors = ['blue'])
+                        edgeColors = ['blue'],
+                        count = 0)
         
         self.G.add_edge('Salt Lake City', 'San Francisco', 
                         weight = 5, 
-                        edgeColors = ['orange', 'white'])
+                        edgeColors = ['orange', 'white'],
+                        count = 0)
         
         self.G.add_edge('Los Angeles', 'San Francisco', 
                         weight = 3, 
-                        edgeColors = ['yellow', 'purple'])
+                        edgeColors = ['yellow', 'purple'],
+                        count = 0)
         
         self.G.add_edge('Los Angeles', 'Las Vegas', 
                         weight = 2, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
         
         self.G.add_edge('Los Angeles', 'Phoenix', 
                         weight = 3, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
         
         self.G.add_edge('Las Vegas', 'Salt Lake City', 
                         weight = 3, 
-                        edgeColors = ['orange'])
+                        edgeColors = ['orange'],
+                        count = 0)
         
         self.G.add_edge('Salt Lake City', 'Helena', 
                         weight = 3, 
-                        edgeColors = ['purple'])
+                        edgeColors = ['purple'],
+                        count = 0)
         
         self.G.add_edge('Helena', 'Winnipeg', 
                         weight = 4, 
-                        edgeColors = ['blue'])
+                        edgeColors = ['blue'],
+                        count = 0)
         
         self.G.add_edge('Helena', 'Denver', 
                         weight = 4, 
-                        edgeColors = ['green'])
+                        edgeColors = ['green'],
+                        count = 0)
         
         self.G.add_edge('Salt Lake City', 'Denver', 
                         weight = 3, 
-                        edgeColors = ['red', 'yellow'])
+                        edgeColors = ['red', 'yellow'],
+                        count = 0)
         
         self.G.add_edge('Phoenix', 'Santa Fe', 
                         weight = 3, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
         
         self.G.add_edge('Los Angeles', 'El Paso', 
                         weight = 6, 
-                        edgeColors = ['black'])
+                        edgeColors = ['black'],
+                        count = 0)
         
         self.G.add_edge('Phoenix', 'El Paso', 
                         weight = 3, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
         
         self.G.add_edge('El Paso', 'Santa Fe', 
                         weight = 2, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
         
         self.G.add_edge('Santa Fe', 'Denver', 
                         weight = 2, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
         
         self.G.add_edge('Helena', 'Duluth', 
                         weight = 6, 
-                        edgeColors = ['orange'])
+                        edgeColors = ['orange'],
+                        count = 0)
         
         self.G.add_edge('Helena', 'Omaha', 
                         weight = 5, 
-                        edgeColors = ['red'])
+                        edgeColors = ['red'],
+                        count = 0)
         
         self.G.add_edge('Winnipeg', 'Duluth', 
                         weight = 4, 
-                        edgeColors = ['black'])
+                        edgeColors = ['black'],
+                        count = 0)
         
         self.G.add_edge('Winnipeg', 'Sault St Marie', 
                         weight = 6, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
         
         self.G.add_edge('Denver', 'Omaha', 
                         weight = 4, 
-                        edgeColors = ['purple'])
+                        edgeColors = ['purple'],
+                        count = 0)
         
         self.G.add_edge('Denver', 'Kansas City', 
                         weight = 4, 
-                        edgeColors = ['black', 'orange'])
+                        edgeColors = ['black', 'orange'],
+                        count = 0)
         
         self.G.add_edge('Denver', 'Oklahoma City', 
                         weight = 4, 
-                        edgeColors = ['red'])
+                        edgeColors = ['red'],
+                        count = 0)
         
         self.G.add_edge('Santa Fe', 'Oklahoma City', 
                         weight = 3, 
-                        edgeColors = ['blue'])
+                        edgeColors = ['blue'],
+                        count = 0)
         
         self.G.add_edge('El Paso', 'Oklahoma City', 
                         weight = 5, 
-                        edgeColors = ['yellow'])
+                        edgeColors = ['yellow'],
+                        count = 0)
         
         self.G.add_edge('El Paso', 'Dallas', 
                         weight = 4, 
-                        edgeColors = ['red'])
+                        edgeColors = ['red'],
+                        count = 0)
         
         self.G.add_edge('El Paso', 'Houston', 
                         weight = 6, 
-                        edgeColors = ['green'])
+                        edgeColors = ['green'],
+                        count = 0)
         
         self.G.add_edge('Houston', 'Dallas', 
                         weight = 1, 
-                        edgeColors = ['grey', 'grey'])
+                        edgeColors = ['grey', 'grey'],
+                        count = 0)
         
         self.G.add_edge('Dallas', 'Oklahoma City', 
                         weight = 2, 
-                        edgeColors = ['grey', 'grey'])
+                        edgeColors = ['grey', 'grey'],
+                        count = 0)
         
         self.G.add_edge('Oklahoma City', 'Kansas City', 
                         weight = 2, 
-                        edgeColors = ['grey', 'grey'])
+                        edgeColors = ['grey', 'grey'],
+                        count = 0)
         
         self.G.add_edge('Omaha', 'Kansas City', 
                         weight = 1, 
-                        edgeColors = ['grey', 'grey'])
+                        edgeColors = ['grey', 'grey'],
+                        count = 0)
         
         self.G.add_edge('Omaha', 'Duluth', 
                         weight = 2, 
-                        edgeColors = ['grey', 'grey'])
+                        edgeColors = ['grey', 'grey'],
+                        count = 0)
         
         self.G.add_edge('Duluth', 'Sault St Marie', 
                         weight = 3, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
         
         self.G.add_edge('Duluth', 'Toronto', 
                         weight = 6, 
-                        edgeColors = ['purple'])
+                        edgeColors = ['purple'],
+                        count = 0)
         
         self.G.add_edge('Duluth', 'Chicago', 
                         weight = 3, 
-                        edgeColors = ['red'])
+                        edgeColors = ['red'],
+                        count = 0)
         
         self.G.add_edge('Omaha', 'Chicago', 
                         weight = 4, 
-                        edgeColors = ['blue'])
+                        edgeColors = ['blue'],
+                        count = 0)
         
         self.G.add_edge('Dallas', 'Little Rock', 
                         weight = 2, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
         
         self.G.add_edge('Oklahoma City', 'Little Rock', 
                         weight = 2, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
         
         self.G.add_edge('Houston', 'New Orleans', 
                         weight = 2, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
         
         self.G.add_edge('New Orleans', 'Little Rock', 
                         weight = 3, 
-                        edgeColors = ['green'])
+                        edgeColors = ['green'],
+                        count = 0)
         
         self.G.add_edge('Little Rock', 'Saint Louis', 
                         weight = 2, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
         
         self.G.add_edge('Kansas City', 'Saint Louis', 
                         weight = 2, 
-                        edgeColors = ['blue', 'purple'])
+                        edgeColors = ['blue', 'purple'],
+                        count = 0)
         
         self.G.add_edge('Little Rock', 'Nashville', 
                         weight = 3, 
-                        edgeColors = ['white'])
+                        edgeColors = ['white'],
+                        count = 0)
         
         self.G.add_edge('Nashville', 'Saint Louis', 
                         weight = 2, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
         
         self.G.add_edge('Saint Louis', 'Chicago', 
                         weight = 2, 
-                        edgeColors = ['green', 'white'])
+                        edgeColors = ['green', 'white'],
+                        count = 0)
         
         self.G.add_edge('Sault St Marie', 'Toronto', 
                         weight = 2, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
         
         self.G.add_edge('Sault St Marie', 'Montreal', 
                         weight = 5, 
-                        edgeColors = ['black'])
+                        edgeColors = ['black'],
+                        count = 0)
         
         self.G.add_edge('Montreal', 'Toronto', 
                         weight = 3, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
         
         self.G.add_edge('Montreal', 'Boston', 
                         weight = 2, 
-                        edgeColors = ['grey', 'grey'])
+                        edgeColors = ['grey', 'grey'],
+                        count = 0)
         
         self.G.add_edge('Montreal', 'New York City',
                         weight = 3, 
-                        edgeColors = ['blue'])
+                        edgeColors = ['blue'],
+                        count = 0)
         
         self.G.add_edge('Toronto', 'Pittsburgh', 
                         weight = 2, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
         
         self.G.add_edge('Toronto', 'Chicago', 
                         weight = 4, 
-                        edgeColors = ['white'])
+                        edgeColors = ['white'],
+                        count = 0)
         
         self.G.add_edge('Boston', 'New York City',
                         weight = 2, 
-                        edgeColors = ['yellow', 'red'])
+                        edgeColors = ['yellow', 'red'],
+                        count = 0)
         
         self.G.add_edge('New York City', 'Pittsburgh',
                         weight = 2, 
-                        edgeColors = ['green', 'white'])
+                        edgeColors = ['green', 'white'],
+                        count = 0)
         
         self.G.add_edge('New York City', 'Washington',
                         weight = 2, 
-                        edgeColors = ['orange', 'black'])
+                        edgeColors = ['orange', 'black'],
+                        count = 0)
         
         self.G.add_edge('Pittsburgh', 'Chicago', 
                         weight = 3, 
-                        edgeColors = ['orange', 'black'])
+                        edgeColors = ['orange', 'black'],
+                        count = 0)
         
         self.G.add_edge('Pittsburgh', 'Saint Louis', 
                         weight = 5, 
-                        edgeColors = ['green'])
+                        edgeColors = ['green'],
+                        count = 0)
         
         self.G.add_edge('Pittsburgh', 'Nashville', 
                         weight = 4, 
-                        edgeColors = ['yellow'])
+                        edgeColors = ['yellow'],
+                        count = 0)
         
         self.G.add_edge('Pittsburgh', 'Raleigh', 
                         weight = 2, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
         
         self.G.add_edge('Pittsburgh', 'Washington', 
                         weight = 2, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
         
         self.G.add_edge('Washington', 'Raleigh', 
                         weight = 2, 
-                        edgeColors = ['grey', 'grey'])
+                        edgeColors = ['grey', 'grey'],
+                        count = 0)
         
         self.G.add_edge('Raleigh', 'Nashville', 
                         weight = 3, 
-                        edgeColors = ['black'])
+                        edgeColors = ['black'],
+                        count = 0)
         
         self.G.add_edge('Nashville', 'Atlanta', 
                         weight = 1, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
         
         self.G.add_edge('Atlanta', 'Raleigh', 
                         weight = 2, 
-                        edgeColors = ['grey', 'grey'])
+                        edgeColors = ['grey', 'grey'],
+                        count = 0)
         
         self.G.add_edge('Raleigh', 'Charleston', 
                         weight = 2, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
         
         self.G.add_edge('Atlanta', 'New Orleans', 
                         weight = 4, 
-                        edgeColors = ['yellow', 'orange'])
+                        edgeColors = ['yellow', 'orange'],
+                        count = 0)
         
         self.G.add_edge('Atlanta', 'Charleston', 
                         weight = 2, 
-                        edgeColors = ['grey'])
+                        edgeColors = ['grey'],
+                        count = 0)
         
         self.G.add_edge('Miami', 'Charleston', 
                         weight = 4, 
-                        edgeColors = ['purple'])
+                        edgeColors = ['purple'],
+                        count = 0)
         
         self.G.add_edge('Miami', 'Atlanta', 
                         weight = 5, 
-                        edgeColors = ['blue'])
+                        edgeColors = ['blue'],
+                        count = 0)
         
         self.G.add_edge('Miami', 'New Orleans', 
                         weight = 6, 
-                        edgeColors = ['red'])
+                        edgeColors = ['red'],
+                        count = 0)
     
         #create a copy of the board to store the original state of the board
         self.copyBoard = self.G.copy()
@@ -341,7 +418,7 @@ class Board(object):
         """
         pos=nx.spring_layout(board)
         nx.draw(board, pos)
-        nx.draw_networkx(board, pos)
+        nx.draw_networkx_edge_labels(board, pos)
         pylab.ion()
         pylab.show()
         pylab.pause(pauseTime)
@@ -352,6 +429,10 @@ class Board(object):
         city1, city2: string
         """
         return self.G.has_edge(city1, city2)
+
+    def updateEdgeCount(self, city1, city2):
+        self.G.get_edge_data(city1,city2)['count'] += 1
+        return True
 
     def removeEdge(self, city1, city2, edgeColor):
         """remove the edge between two cities that's colored edgeColor

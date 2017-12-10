@@ -8,6 +8,7 @@ import collections
 import ticketAIPlayer
 import routeAIPlayer
 import randomAIPlayer
+import mixedAIPlayer
 
 class Game(object):
     def __init__(self, numAIPlayers, numHumanPlayers, aiStrategies):
@@ -84,8 +85,15 @@ class Game(object):
                                                      playerBoard,
                                                      position,
                                                      self.startingNumOfTrains,
-                                                     type_
-                                                     )
+                                                     type_)
+            elif strategy == 'mixed':
+                player = mixedAIPlayer.mixedAIPlayer(startingHand,
+                                                       startingTickets,
+                                                       playerBoard,
+                                                       position,
+                                                       self.startingNumOfTrains,
+                                                       type_
+                                                       )
 
             self.players.append(player)
 
@@ -288,7 +296,7 @@ class Game(object):
         player: player object
         """
 
-        choice, options = player.makeTurnChoice(self.fullBoard, self.board)
+        choice, options = player.makeTurnChoice(self.fullBoard, self.board, self.deck)
 
         if choice == 'cards':
             self.board, self.deck = player.AIpickCards(self.board, self.deck, options)

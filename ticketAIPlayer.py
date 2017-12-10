@@ -115,15 +115,17 @@ class ticketAIPlayer(Player):
         print(edgeCompletion)
         return edgeCompletion
 
-    def makeTurnChoice(self, fullBoard, board):
+    def makeTurnChoice(self, fullBoard, board, deck):
+        pathsTooLong = False
         self.numTurns += 1
         print("Turn number {}".format(self.numTurns))
         paths = self.getPathsInProgress(fullBoard, board)
 
-        if len(paths) == 0:
+        if len(paths) == 0 and deck.ticketAvailable() == True:
             return "ticket", []
+        elif len(paths) == 0 and deck.ticketAvailable() == False:
+            pathsTooLong = True
 
-        pathsTooLong = False
         for p in paths:
             # if AI has enough cards in hand to play route
             if p[2] >= 1 and p[4] <= self.numTrains:
@@ -143,6 +145,26 @@ class ticketAIPlayer(Player):
 
         return "cards", paths
 
+    def pickRandomCards(self, board, deck):
+        availableCards = deck.getDrawPile()
+        count = 0
+
+        while count < 2:
+            availableCards = deck.getDrawPile()
+            choice = randint(0, len(availableCards) -1)
+            print(availableCards[choice])
+            if availableCards[choice] == "wild" and count == 0:
+                chosen = deck.pickFaceUpCard(availableCards[choice])
+                count = 2
+            else:
+                chosen = deck.pickFaceUpCard(availableCards[choice])
+                count += 1
+            self.addCardToHand(chosen)
+
+        print(self.getHand())
+
+        return board, deck
+
     def AIpickCards(self, board, deck, options):
         print("AI drawing card")
         availableCards = deck.getDrawPile()
@@ -151,6 +173,10 @@ class ticketAIPlayer(Player):
         maxOp = None
         print(availableCards)
         print(self.getHand())
+        print(options)
+
+        if len(options) ==  0:
+            return self.pickRandomCards(board, deck)
 
         for op in options:
             availableCards = deck.getDrawPile()
@@ -184,7 +210,7 @@ class ticketAIPlayer(Player):
             try:
                 colors = board.getEdgeColors(maxOp[0], maxOp[1])
             except:
-                print("error")
+                continue
             if 'grey' in colors:
                 if mostCommon in availableCards:
                     self.addCardToHand(mostCommon)
@@ -192,6 +218,10 @@ class ticketAIPlayer(Player):
                         exit()
                     count += 1
                 else:
+                    if chosen == 'grey':
+                        print("c6")
+                        print(self.getHand())
+                        exit()
                     chosen = deck.pickFaceDown()
                     self.addCardToHand(chosen)
                     count += 1
@@ -199,7 +229,6 @@ class ticketAIPlayer(Player):
                 chosen = deck.pickFaceDown()
                 self.addCardToHand(chosen)
                 count += 1
-
         print(self.getHand())
 
         return board, deck

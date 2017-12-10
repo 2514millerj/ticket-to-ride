@@ -1,0 +1,1000 @@
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Pittsburgh,Saint Louis-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p2:New Orleans,Miami-Helena,Duluth-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p2:El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Seattle-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Oklahoma City-Atlanta,Miami-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-El Paso,Los Angeles-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,New Orleans-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-
+p2:Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Seattle-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-Calgary,Winnipeg-San Francisco,Portland-
+p2:Houston,El Paso-El Paso,Oklahoma City-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-
+p1:New Orleans,Miami-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-
+p2:Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p2:Atlanta,Miami-El Paso,Oklahoma City-El Paso,Los Angeles-Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Houston,El Paso-Miami,Atlanta-Miami,New Orleans-Portland,San Francisco-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-
+p2:Toronto,Duluth-Omaha,Helena-Pittsburgh,Saint Louis-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,Portland-Montreal,Sault St Marie-
+p1:Toronto,Duluth-Omaha,Helena-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-New Orleans,Miami-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Houston,El Paso-New Orleans,Miami-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Helena,Duluth-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p1:Houston,El Paso-Helena,Duluth-Helena,Seattle-Miami,Atlanta-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-Miami,New Orleans-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Los Angeles-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-Sault St Marie,Montreal-Calgary,Winnipeg-
+p2:Omaha,Helena-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Omaha,Helena-Helena,Seattle-Miami,Atlanta-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Seattle-Miami,New Orleans-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p2:Helena,Duluth-Atlanta,Miami-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p1:Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-El Paso,Oklahoma City-Helena,Duluth-Helena,Seattle-Salt Lake City,Portland-Sault St Marie,Montreal-
+p1:Houston,El Paso-Omaha,Helena-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Seattle,Helena-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-Winnipeg,Calgary-Sault St Marie,Montreal-
+p2:Helena,Seattle-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p2:Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Seattle,Helena-Miami,New Orleans-Winnipeg,Calgary-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p2:Omaha,Helena-El Paso,Los Angeles-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Helena,Seattle-Miami,New Orleans-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p1:El Paso,Oklahoma City-El Paso,Los Angeles-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Seattle-Miami,Atlanta-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p1:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Salt Lake City,Portland-
+p2:Omaha,Helena-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Houston,El Paso-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:Toronto,Duluth-Omaha,Helena-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-
+p1:Houston,El Paso-Helena,Duluth-Helena,Seattle-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p1:Houston,El Paso-New Orleans,Miami-Helena,Seattle-Pittsburgh,Saint Louis-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Helena,Duluth-Miami,Atlanta-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-Oklahoma City,El Paso-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Omaha,Helena-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:Houston,El Paso-Seattle,Helena-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-Winnipeg,Calgary-Sault St Marie,Montreal-
+p1:Toronto,Duluth-Omaha,Helena-Helena,Duluth-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Seattle,Helena-Miami,Atlanta-Miami,New Orleans-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p2:Helena,Duluth-Helena,Seattle-Miami,New Orleans-Pittsburgh,Saint Louis-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Seattle-Miami,Atlanta-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Los Angeles-Miami,New Orleans-Helena,Duluth-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Los Angeles-Helena,Duluth-Helena,Seattle-Salt Lake City,Portland-San Francisco,Portland-
+p1:Omaha,Helena-Helena,Duluth-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p1:Toronto,Duluth-Miami,New Orleans-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-Calgary,Winnipeg-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Omaha,Helena-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Helena,Seattle-Miami,Atlanta-Miami,New Orleans-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p1:Houston,El Paso-Omaha,Helena-Helena,Duluth-Atlanta,Miami-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p2:Toronto,Duluth-New Orleans,Miami-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Omaha,Helena-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Seattle-El Paso,Los Angeles-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-Seattle,Helena-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Omaha,Helena-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Portland,San Francisco-El Paso,Oklahoma City-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Sault St Marie,Montreal-
+p1:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-Atlanta,Miami-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:New Orleans,Miami-El Paso,Los Angeles-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p1:New Orleans,Miami-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,Portland-
+p1:Toronto,Duluth-Omaha,Helena-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Helena,Seattle-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Houston,El Paso-Omaha,Helena-Helena,Duluth-Miami,Atlanta-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p2:Toronto,Duluth-Helena,Seattle-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Seattle,Helena-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-Omaha,Helena-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p1:Toronto,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Miami,New Orleans-Helena,Duluth-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Seattle-Miami,Atlanta-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p2:Omaha,Helena-El Paso,Los Angeles-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Seattle,Helena-Miami,New Orleans-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Sault St Marie,Montreal-
+p2:Omaha,Helena-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Omaha,Helena-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p2:El Paso,Los Angeles-Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,New Orleans-Pittsburgh,Saint Louis-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-
+p2:Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-Pittsburgh,Saint Louis-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Oklahoma City-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Helena,Seattle-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Salt Lake City,San Francisco-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Houston,El Paso-Seattle,Helena-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Pittsburgh,Saint Louis-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Omaha,Helena-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-El Paso,Los Angeles-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-
+p1:Seattle,Helena-Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Atlanta,Miami-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p1:Houston,El Paso-El Paso,Oklahoma City-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Helena,Seattle-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-El Paso,Oklahoma City-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p2:Seattle,Helena-El Paso,Los Angeles-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p1:Toronto,Duluth-Houston,El Paso-New Orleans,Miami-Helena,Duluth-Helena,Seattle-Miami,Atlanta-Winnipeg,Calgary-
+p2:El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Houston,El Paso-El Paso,Los Angeles-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p1:Seattle,Helena-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-Miami,Atlanta-El Paso,Oklahoma City-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p1:Houston,El Paso-Miami,Atlanta-Miami,New Orleans-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Helena,Duluth-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Sault St Marie,Montreal-
+p2:Helena,Duluth-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-New Orleans,Miami-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-
+p2:Houston,El Paso-Omaha,Helena-Helena,Duluth-Miami,Atlanta-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-
+p1:Toronto,Duluth-Omaha,Helena-Helena,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,Portland-
+p2:Houston,El Paso-Seattle,Helena-Miami,Atlanta-Miami,New Orleans-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p1:Seattle,Helena-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-El Paso,Oklahoma City-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-
+p1:Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Oklahoma City-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-Oklahoma City,El Paso-Winnipeg,Calgary-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Toronto,Duluth-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-Miami,New Orleans-Pittsburgh,Saint Louis-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-
+p1:Toronto,Duluth-Omaha,Helena-El Paso,Oklahoma City-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-
+p2:Houston,El Paso-New Orleans,Miami-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-
+p1:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Omaha,Helena-Pittsburgh,Saint Louis-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Oklahoma City-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Seattle,Helena-Miami,New Orleans-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Houston,El Paso-Omaha,Helena-Helena,Duluth-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Seattle-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Oklahoma City-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Miami,Atlanta-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-
+p2:Seattle,Helena-Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Omaha,Helena-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p1:El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-
+p1:Houston,El Paso-Omaha,Helena-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p1:Toronto,Duluth-Omaha,Helena-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p1:Houston,El Paso-Omaha,Helena-Helena,Seattle-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Seattle,Helena-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-El Paso,Oklahoma City-Helena,Duluth-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p1:Toronto,Duluth-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Houston,El Paso-El Paso,Los Angeles-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:El Paso,Oklahoma City-El Paso,Los Angeles-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-
+p1:Houston,El Paso-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-New Orleans,Miami-Omaha,Helena-Miami,Atlanta-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-
+p2:Helena,Seattle-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-Omaha,Helena-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Houston,El Paso-New Orleans,Miami-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,Portland-
+p2:Toronto,Duluth-El Paso,Oklahoma City-Miami,Atlanta-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Duluth-El Paso,Oklahoma City-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-New Orleans,Miami-El Paso,Los Angeles-Miami,Atlanta-Helena,Seattle-Winnipeg,Calgary-San Francisco,Portland-
+p1:Houston,El Paso-New Orleans,Miami-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Toronto,Duluth-Helena,Duluth-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-Omaha,Helena-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Omaha,Helena-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Miami,New Orleans-Pittsburgh,Saint Louis-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-
+p1:Toronto,Duluth-Seattle,Helena-Miami,Atlanta-Miami,New Orleans-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p2:Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-Omaha,Helena-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Los Angeles-Miami,Atlanta-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Sault St Marie,Montreal-
+p1:Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p2:Toronto,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Houston,El Paso-Omaha,Helena-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-El Paso,Los Angeles-Miami,New Orleans-Pittsburgh,Saint Louis-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-Omaha,Helena-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-
+p2:El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Houston,El Paso-Miami,Atlanta-Portland,San Francisco-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p2:Toronto,Duluth-New Orleans,Miami-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-
+p1:Toronto,Duluth-Helena,Seattle-Miami,New Orleans-Pittsburgh,Saint Louis-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:Houston,El Paso-El Paso,Oklahoma City-Atlanta,Miami-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-
+p2:Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Omaha,Helena-El Paso,Los Angeles-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p1:Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,New Orleans-Pittsburgh,Saint Louis-El Paso,Oklahoma City-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p1:Toronto,Duluth-Omaha,Helena-Helena,Duluth-Helena,Seattle-Pittsburgh,Saint Louis-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p1:Houston,El Paso-Helena,Seattle-Miami,Atlanta-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Los Angeles-Miami,New Orleans-Helena,Duluth-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Omaha,Helena-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-Pittsburgh,Saint Louis-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p1:Houston,El Paso-Miami,New Orleans-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Helena,Duluth-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Helena,Duluth-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p1:Houston,El Paso-Helena,Seattle-Pittsburgh,Saint Louis-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Seattle-Pittsburgh,Saint Louis-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p2:Atlanta,Miami-Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Miami,Atlanta-Pittsburgh,Saint Louis-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,Portland-Sault St Marie,Montreal-
+p1:Houston,El Paso-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Portland,San Francisco-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-
+p1:Toronto,Duluth-Omaha,Helena-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Omaha,Helena-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Seattle-Miami,Atlanta-Pittsburgh,Saint Louis-El Paso,Los Angeles-Winnipeg,Calgary-
+p2:Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-El Paso,Oklahoma City-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Seattle-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Seattle,Helena-Miami,New Orleans-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Houston,El Paso-Miami,Atlanta-Portland,San Francisco-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p2:Toronto,Duluth-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-New Orleans,Miami-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-Portland,San Francisco-El Paso,Oklahoma City-Winnipeg,Calgary-
+p1:Houston,El Paso-New Orleans,Miami-Miami,Atlanta-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Omaha,Helena-Helena,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-El Paso,Los Angeles-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-Omaha,Helena-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-
+p2:Omaha,Helena-Helena,Duluth-Helena,Seattle-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-El Paso,Los Angeles-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:Omaha,Helena-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-Pittsburgh,Saint Louis-El Paso,Oklahoma City-Winnipeg,Calgary-Sault St Marie,Montreal-
+p2:El Paso,Los Angeles-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-
+p2:Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,Atlanta-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-
+p2:New Orleans,Miami-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-New Orleans,Miami-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-El Paso,Oklahoma City-El Paso,Los Angeles-Miami,Atlanta-Portland,San Francisco-Helena,Duluth-Winnipeg,Sault St Marie-
+p1:Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Helena,Seattle-Miami,Atlanta-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-El Paso,Oklahoma City-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-New Orleans,Miami-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-El Paso,Los Angeles-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-
+p1:Omaha,Helena-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p1:Houston,El Paso-Seattle,Helena-Miami,New Orleans-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Omaha,Helena-El Paso,Los Angeles-Helena,Duluth-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Atlanta,Miami-Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,Atlanta-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p2:New Orleans,Miami-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-
+p1:Toronto,Duluth-Omaha,Helena-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Houston,El Paso-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Houston,El Paso-Omaha,Helena-Helena,Duluth-Helena,Seattle-Miami,Atlanta-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p2:Toronto,Duluth-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p2:El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,Portland-San Francisco,Portland-
+p1:Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-Helena,Seattle-Salt Lake City,Portland-Sault St Marie,Montreal-
+p1:El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-New Orleans,Miami-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-Omaha,Helena-El Paso,Oklahoma City-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p1:Helena,Duluth-Helena,Seattle-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-
+p1:Houston,El Paso-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Houston,El Paso-New Orleans,Miami-El Paso,Los Angeles-Miami,Atlanta-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Oklahoma City-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p2:Omaha,Helena-El Paso,Los Angeles-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Omaha,Helena-Helena,Duluth-Helena,Seattle-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Miami,Atlanta-Miami,New Orleans-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p1:Omaha,Helena-El Paso,Los Angeles-Miami,Atlanta-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-Miami,New Orleans-Helena,Seattle-Salt Lake City,Portland-Sault St Marie,Montreal-
+p1:Toronto,Duluth-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Miami,New Orleans-Pittsburgh,Saint Louis-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Helena,Seattle-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-Miami,Atlanta-Winnipeg,Calgary-Salt Lake City,San Francisco-
+p2:Seattle,Helena-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:Seattle,Helena-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:El Paso,Los Angeles-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Seattle,Helena-Miami,Atlanta-Miami,New Orleans-Winnipeg,Calgary-Sault St Marie,Montreal-
+p1:Atlanta,Miami-Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-Omaha,Helena-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Duluth-Helena,Seattle-Miami,New Orleans-Pittsburgh,Saint Louis-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-
+p2:Toronto,Duluth-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Seattle,Helena-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Omaha,Helena-Helena,Duluth-El Paso,Oklahoma City-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:Seattle,Helena-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-New Orleans,Miami-El Paso,Oklahoma City-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Sault St Marie,Montreal-
+p2:Houston,El Paso-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-Miami,New Orleans-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:El Paso,Los Angeles-Pittsburgh,Saint Louis-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Miami,Atlanta-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p2:Houston,El Paso-Omaha,Helena-El Paso,Los Angeles-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p1:Houston,El Paso-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-New Orleans,Miami-Miami,Atlanta-Pittsburgh,Saint Louis-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Sault St Marie,Montreal-
+p1:Houston,El Paso-New Orleans,Miami-Helena,Duluth-Helena,Seattle-Miami,Atlanta-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Omaha,Helena-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Pittsburgh,Saint Louis-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Miami,Atlanta-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Helena,Seattle-Miami,New Orleans-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-
+p1:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:Helena,Duluth-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Los Angeles-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-San Francisco,Portland-
+p1:Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-Pittsburgh,Saint Louis-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-
+p2:Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Toronto,Duluth-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Duluth-Helena,Seattle-Miami,New Orleans-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,Atlanta-Oklahoma City,El Paso-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Omaha,Helena-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-New Orleans,Miami-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p1:Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p1:Toronto,Duluth-Miami,Atlanta-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Omaha,Helena-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-New Orleans,Miami-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-Miami,Atlanta-Winnipeg,Calgary-Winnipeg,Sault St Marie-
+p2:Helena,Seattle-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-Portland,San Francisco-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-
+p1:Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-El Paso,Los Angeles-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-
+p1:Houston,El Paso-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-
+p2:Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:New Orleans,Miami-El Paso,Los Angeles-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-El Paso,Oklahoma City-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p1:Helena,Duluth-Helena,Seattle-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Calgary,Winnipeg-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-
+p1:Houston,El Paso-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-Oklahoma City,El Paso-El Paso,Los Angeles-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Salt Lake City,Portland-
+p2:Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-
+p1:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:New Orleans,Miami-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Duluth-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-
+p1:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-
+p2:Omaha,Helena-El Paso,Los Angeles-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Miami,New Orleans-Pittsburgh,Saint Louis-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p1:Toronto,Duluth-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Sault St Marie,Montreal-
+p1:Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Omaha,Helena-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Houston,El Paso-Miami,Atlanta-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,Portland-
+p2:Miami,Atlanta-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Omaha,Helena-El Paso,Oklahoma City-El Paso,Los Angeles-Miami,Atlanta-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-Helena,Seattle-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:New Orleans,Miami-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p1:Houston,El Paso-Seattle,Helena-Miami,Atlanta-Miami,New Orleans-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Omaha,Helena-Helena,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p1:Toronto,Duluth-Omaha,Helena-Helena,Duluth-Pittsburgh,Saint Louis-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-New Orleans,Miami-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,Portland-Montreal,Sault St Marie-
+p1:Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-Portland,San Francisco-El Paso,Oklahoma City-Winnipeg,Calgary-Sault St Marie,Montreal-
+p2:Toronto,Duluth-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Omaha,Helena-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-New Orleans,Miami-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p1:Omaha,Helena-Helena,Duluth-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p1:Helena,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-New Orleans,Miami-Helena,Seattle-Miami,Atlanta-Winnipeg,Calgary-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p2:Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Houston,El Paso-New Orleans,Miami-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Omaha,Helena-Helena,Duluth-Atlanta,Miami-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-Winnipeg,Calgary-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p2:Omaha,Helena-Helena,Seattle-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,Portland-San Francisco,Portland-
+p1:Atlanta,Miami-El Paso,Oklahoma City-El Paso,Los Angeles-Miami,New Orleans-Helena,Duluth-Calgary,Winnipeg-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p1:Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-El Paso,Oklahoma City-El Paso,Los Angeles-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,San Francisco-
+p1:Houston,El Paso-Omaha,Helena-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Houston,El Paso-Omaha,Helena-Helena,Duluth-Miami,Atlanta-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-
+p2:Toronto,Duluth-El Paso,Los Angeles-Miami,New Orleans-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Seattle-Miami,Atlanta-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p1:Houston,El Paso-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Houston,El Paso-New Orleans,Miami-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-El Paso,Los Angeles-Miami,Atlanta-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p2:New Orleans,Miami-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:El Paso,Oklahoma City-El Paso,Los Angeles-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-New Orleans,Miami-Helena,Seattle-Miami,Atlanta-Winnipeg,Calgary-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p1:Toronto,Duluth-El Paso,Oklahoma City-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-New Orleans,Miami-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Duluth-Atlanta,Miami-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-Seattle,Helena-Miami,New Orleans-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Duluth-Miami,Atlanta-Oklahoma City,El Paso-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Helena,Seattle-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p2:Seattle,Helena-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Duluth-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Seattle,Helena-Miami,Atlanta-Miami,New Orleans-Winnipeg,Calgary-Salt Lake City,San Francisco-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-
+p2:Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-Miami,New Orleans-Pittsburgh,Saint Louis-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-
+p1:Seattle,Helena-Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Pittsburgh,Saint Louis-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p1:New Orleans,Miami-El Paso,Los Angeles-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-Miami,Atlanta-El Paso,Oklahoma City-Winnipeg,Calgary-Sault St Marie,Montreal-
+p1:Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p1:Seattle,Helena-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-El Paso,Oklahoma City-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-
+p1:Seattle,Helena-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p1:Houston,El Paso-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Seattle-Miami,Atlanta-Winnipeg,Calgary-Sault St Marie,Montreal-
+p1:Helena,Duluth-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p1:Helena,Duluth-Helena,Seattle-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-El Paso,Los Angeles-Miami,Atlanta-Helena,Seattle-Salt Lake City,San Francisco-
+p2:Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-Omaha,Helena-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Duluth-Helena,Seattle-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Seattle,Helena-El Paso,Oklahoma City-Miami,New Orleans-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-
+p2:Houston,El Paso-Omaha,Helena-Helena,Duluth-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-
+p1:El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p1:Toronto,Duluth-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p2:Toronto,Duluth-Omaha,Helena-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-
+p1:Houston,El Paso-Helena,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-New Orleans,Miami-Miami,Atlanta-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Houston,El Paso-El Paso,Los Angeles-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,Atlanta-Miami,New Orleans-Helena,Seattle-Salt Lake City,San Francisco-Sault St Marie,Montreal-Calgary,Winnipeg-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-
+p2:Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p1:Helena,Duluth-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p1:Houston,El Paso-Omaha,Helena-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p2:Toronto,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p1:Omaha,Helena-El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p1:Toronto,Duluth-El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Omaha,Helena-Helena,Seattle-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p2:Helena,Seattle-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p1:Omaha,Helena-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-
+p1:New Orleans,Miami-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-Miami,Atlanta-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p1:Houston,El Paso-El Paso,Oklahoma City-Atlanta,Miami-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Helena,Seattle-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p2:Toronto,Duluth-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Salt Lake City,Portland-
+p1:Atlanta,Miami-Houston,El Paso-Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p2:Toronto,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p2:Omaha,Helena-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-El Paso,Los Angeles-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p2:New Orleans,Miami-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Omaha,Helena-El Paso,Los Angeles-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-
+p1:Toronto,Duluth-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Miami,New Orleans-Pittsburgh,Saint Louis-El Paso,Oklahoma City-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p1:El Paso,Los Angeles-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p1:Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-Portland,San Francisco-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-
+p2:Toronto,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Seattle-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Omaha,Helena-El Paso,Oklahoma City-Miami,Atlanta-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Omaha,Helena-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Miami,Atlanta-Miami,New Orleans-Oklahoma City,El Paso-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Seattle-Miami,Atlanta-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p2:El Paso,Oklahoma City-El Paso,Los Angeles-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p2:El Paso,Los Angeles-Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:New Orleans,Miami-El Paso,Los Angeles-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-
+p1:Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Omaha,Helena-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:El Paso,Oklahoma City-El Paso,Los Angeles-Atlanta,Miami-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-Pittsburgh,Saint Louis-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p1:Toronto,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-Oklahoma City,El Paso-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Houston,El Paso-Omaha,Helena-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p2:Omaha,Helena-El Paso,Los Angeles-Miami,Atlanta-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p1:Toronto,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-Oklahoma City,El Paso-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p1:Toronto,Duluth-El Paso,Oklahoma City-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Seattle-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p2:Houston,El Paso-Omaha,Helena-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Houston,El Paso-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-
+p2:Toronto,Duluth-Omaha,Helena-El Paso,Los Angeles-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Omaha,Helena-Helena,Duluth-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p2:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-Helena,Seattle-Miami,Atlanta-Winnipeg,Calgary-Sault St Marie,Montreal-
+p2:Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-Miami,New Orleans-Pittsburgh,Saint Louis-Helena,Duluth-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Seattle-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Atlanta,Miami-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-New Orleans,Miami-Pittsburgh,Saint Louis-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p2:Houston,El Paso-Helena,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-
+p2:Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-
+p2:Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Omaha,Helena-El Paso,Oklahoma City-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Sault St Marie-
+p1:Toronto,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Seattle-Miami,New Orleans-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Sault St Marie,Montreal-
+p1:Omaha,Helena-El Paso,Los Angeles-Miami,Atlanta-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p1:Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p1:Toronto,Duluth-New Orleans,Miami-El Paso,Oklahoma City-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-San Francisco,Portland-
+p2:Houston,El Paso-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Omaha,Helena-El Paso,Los Angeles-Miami,Atlanta-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p1:Toronto,Duluth-Portland,San Francisco-Miami,Atlanta-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p2:Houston,El Paso-Helena,Duluth-Helena,Seattle-Miami,New Orleans-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Pittsburgh,Saint Louis-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-
+p2:Seattle,Helena-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Oklahoma City-Miami,New Orleans-Pittsburgh,Saint Louis-Helena,Duluth-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p2:Seattle,Helena-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-Omaha,Helena-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Seattle,Helena-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Sault St Marie,Montreal-San Francisco,Portland-
+p1:El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Sault St Marie,Montreal-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p2:New Orleans,Miami-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Portland,San Francisco-Miami,Atlanta-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p2:Houston,El Paso-Helena,Duluth-Helena,Seattle-Miami,New Orleans-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Houston,El Paso-New Orleans,Miami-Helena,Seattle-Miami,Atlanta-Winnipeg,Calgary-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p2:Toronto,Duluth-Helena,Duluth-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-Omaha,Helena-El Paso,Oklahoma City-El Paso,Los Angeles-Helena,Duluth-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Seattle,Helena-Miami,Atlanta-Miami,New Orleans-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Houston,El Paso-Seattle,Helena-Miami,New Orleans-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Toronto,Duluth-Helena,Duluth-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Seattle-Pittsburgh,Saint Louis-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p2:El Paso,Oklahoma City-El Paso,Los Angeles-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p1:Omaha,Helena-Helena,Duluth-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Omaha,Helena-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-El Paso,Oklahoma City-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-New Orleans,Miami-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:Omaha,Helena-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Omaha,Helena-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Miami,New Orleans-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Duluth-Helena,Seattle-Miami,Atlanta-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Omaha,Helena-Helena,Duluth-Helena,Seattle-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Pittsburgh,Saint Louis-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:El Paso,Los Angeles-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-Omaha,Helena-El Paso,Los Angeles-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p1:Houston,El Paso-Miami,Atlanta-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p2:Toronto,Duluth-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Houston,El Paso-El Paso,Oklahoma City-El Paso,Los Angeles-Miami,Atlanta-Miami,New Orleans-Portland,San Francisco-Helena,Duluth-Winnipeg,Calgary-
+p2:Toronto,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Seattle,Helena-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-El Paso,Oklahoma City-Winnipeg,Calgary-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p1:Houston,El Paso-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p2:New Orleans,Miami-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Miami,Atlanta-Miami,New Orleans-Portland,San Francisco-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p2:Helena,Duluth-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p2:Toronto,Duluth-Omaha,Helena-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Houston,El Paso-Omaha,Helena-El Paso,Los Angeles-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-New Orleans,Miami-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Houston,El Paso-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p2:New Orleans,Miami-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p2:Omaha,Helena-El Paso,Los Angeles-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Sault St Marie,Montreal-San Francisco,Portland-
+p1:El Paso,Los Angeles-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Atlanta,Miami-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Helena,Duluth-Helena,Seattle-Miami,New Orleans-El Paso,Los Angeles-Sault St Marie,Montreal-Calgary,Winnipeg-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Pittsburgh,Saint Louis-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p1:Toronto,Duluth-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Helena,Seattle-Miami,Atlanta-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p2:Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Houston,El Paso-El Paso,Los Angeles-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:El Paso,Oklahoma City-El Paso,Los Angeles-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Seattle,Helena-Miami,Atlanta-Miami,New Orleans-Winnipeg,Calgary-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p1:Houston,El Paso-Helena,Duluth-Helena,Seattle-Miami,Atlanta-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Omaha,Helena-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,New Orleans-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Houston,El Paso-El Paso,Oklahoma City-El Paso,Los Angeles-Miami,Atlanta-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-
+p1:Toronto,Duluth-Seattle,Helena-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Omaha,Helena-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p1:El Paso,Oklahoma City-El Paso,Los Angeles-Miami,Atlanta-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Seattle-Miami,New Orleans-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p1:Houston,El Paso-Helena,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-New Orleans,Miami-Miami,Atlanta-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,San Francisco-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-Seattle,Helena-Miami,Atlanta-Miami,New Orleans-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Omaha,Helena-Helena,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:New Orleans,Miami-Helena,Duluth-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Sault St Marie,Montreal-
+p2:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-Omaha,Helena-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Toronto,Duluth-Portland,San Francisco-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-
+p1:Seattle,Helena-Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Houston,El Paso-Miami,Atlanta-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,Atlanta-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Miami,Atlanta-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p2:Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,Portland-Sault St Marie,Montreal-Calgary,Winnipeg-San Francisco,Portland-
+p1:Houston,El Paso-El Paso,Los Angeles-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-
+p2:New Orleans,Miami-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:El Paso,Oklahoma City-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-
+p1:Omaha,Helena-El Paso,Oklahoma City-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Seattle-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p1:El Paso,Oklahoma City-El Paso,Los Angeles-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-
+p1:Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-
+p1:El Paso,Los Angeles-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-Pittsburgh,Saint Louis-El Paso,Oklahoma City-Winnipeg,Calgary-Sault St Marie,Montreal-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Seattle,Helena-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Helena,Seattle-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,Atlanta-Oklahoma City,El Paso-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p2:New Orleans,Miami-Pittsburgh,Saint Louis-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:Helena,Seattle-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-
+p2:New Orleans,Miami-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-El Paso,Los Angeles-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-San Francisco,Portland-
+p1:Atlanta,Miami-Houston,El Paso-Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Omaha,Helena-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Seattle-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-
+p2:El Paso,Oklahoma City-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Omaha,Helena-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p1:Houston,El Paso-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-New Orleans,Miami-Omaha,Helena-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Omaha,Helena-El Paso,Los Angeles-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p1:Houston,El Paso-El Paso,Oklahoma City-El Paso,Los Angeles-Miami,New Orleans-Helena,Duluth-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,Atlanta-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-New Orleans,Miami-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Atlanta,Miami-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p2:Helena,Duluth-Helena,Seattle-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Helena,Seattle-Miami,Atlanta-Pittsburgh,Saint Louis-El Paso,Los Angeles-Salt Lake City,San Francisco-
+p2:Miami,New Orleans-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,Atlanta-Pittsburgh,Saint Louis-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-
+p2:Helena,Seattle-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-
+p2:Omaha,Helena-Helena,Duluth-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p1:Omaha,Helena-El Paso,Los Angeles-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p1:Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-
+p1:Toronto,Duluth-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Helena,Seattle-Miami,Atlanta-Miami,New Orleans-Oklahoma City,El Paso-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Houston,El Paso-Omaha,Helena-El Paso,Oklahoma City-El Paso,Los Angeles-Miami,Atlanta-Helena,Duluth-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:Toronto,Duluth-Seattle,Helena-Miami,New Orleans-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Seattle-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-
+p2:El Paso,Oklahoma City-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Helena,Duluth-Helena,Seattle-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:El Paso,Oklahoma City-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Salt Lake City,San Francisco-
+p1:Houston,El Paso-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-
+p2:Omaha,Helena-El Paso,Los Angeles-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:Seattle,Helena-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Houston,El Paso-Omaha,Helena-Helena,Duluth-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,New Orleans-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-
+p2:Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:New Orleans,Miami-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-Miami,Atlanta-El Paso,Los Angeles-Salt Lake City,San Francisco-
+p1:El Paso,Oklahoma City-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Seattle-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p2:El Paso,Los Angeles-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-Winnipeg,Calgary-Salt Lake City,San Francisco-Sault St Marie,Montreal-San Francisco,Portland-
+p2:El Paso,Los Angeles-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Duluth-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Houston,El Paso-New Orleans,Miami-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Duluth-El Paso,Oklahoma City-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Toronto,Duluth-Seattle,Helena-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Omaha,Helena-Helena,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Seattle-Miami,Atlanta-Miami,New Orleans-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Omaha,Helena-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Sault St Marie,Montreal-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-
+p2:Atlanta,Miami-El Paso,Oklahoma City-El Paso,Los Angeles-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-
+p2:Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-New Orleans,Miami-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p2:Helena,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Omaha,Helena-El Paso,Los Angeles-Pittsburgh,Saint Louis-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p1:Helena,Seattle-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Sault St Marie,Montreal-
+p1:Houston,El Paso-Seattle,Helena-Miami,New Orleans-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Omaha,Helena-El Paso,Oklahoma City-El Paso,Los Angeles-Pittsburgh,Saint Louis-Helena,Duluth-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p1:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p2:New Orleans,Miami-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Helena,Seattle-Miami,Atlanta-Oklahoma City,El Paso-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Miami,New Orleans-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p1:Seattle,Helena-Miami,Atlanta-Miami,New Orleans-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-
+p2:Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,Portland-San Francisco,Portland-
+p2:Seattle,Helena-Omaha,Helena-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Duluth-El Paso,Oklahoma City-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-New Orleans,Miami-El Paso,Los Angeles-Miami,Atlanta-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Omaha,Helena-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-Omaha,Helena-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-Miami,New Orleans-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Pittsburgh,Saint Louis-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-El Paso,Los Angeles-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-
+p2:Omaha,Helena-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-New Orleans,Miami-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Toronto,Duluth-Helena,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Duluth-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Seattle-Miami,Atlanta-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Helena,Duluth-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:Seattle,Helena-Miami,New Orleans-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Oklahoma City-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p2:Toronto,Duluth-Helena,Duluth-Helena,Seattle-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Seattle,Helena-Miami,New Orleans-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Miami,Atlanta-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-
+p1:Houston,El Paso-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-
+p1:Toronto,Duluth-New Orleans,Miami-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Houston,El Paso-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:New Orleans,Miami-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-
+p1:New Orleans,Miami-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-
+p1:Toronto,Duluth-Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Seattle-Miami,Atlanta-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Seattle-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,Atlanta-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p1:Toronto,Duluth-New Orleans,Miami-Miami,Atlanta-Pittsburgh,Saint Louis-Helena,Duluth-Helena,Seattle-Winnipeg,Calgary-Sault St Marie,Montreal-
+p2:Houston,El Paso-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Seattle-Miami,Atlanta-Winnipeg,Calgary-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p1:Toronto,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-El Paso,Los Angeles-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-San Francisco,Portland-
+p1:Houston,El Paso-Omaha,Helena-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-
+p2:Toronto,Duluth-El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Omaha,Helena-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p1:Omaha,Helena-El Paso,Oklahoma City-El Paso,Los Angeles-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-New Orleans,Miami-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p1:Houston,El Paso-Helena,Seattle-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Oklahoma City-Atlanta,Miami-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-Omaha,Helena-Helena,Seattle-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,Atlanta-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-Omaha,Helena-Helena,Duluth-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,Portland-
+p2:Toronto,Duluth-Helena,Seattle-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Salt Lake City,San Francisco-
+p2:Miami,New Orleans-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p2:Toronto,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-
+p1:Omaha,Helena-Helena,Duluth-Helena,Seattle-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p1:Houston,El Paso-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Los Angeles-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Seattle-Miami,Atlanta-Miami,New Orleans-Salt Lake City,San Francisco-Sault St Marie,Montreal-Calgary,Winnipeg-San Francisco,Portland-
+p1:Toronto,Duluth-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-
+p2:Houston,El Paso-Omaha,Helena-Helena,Duluth-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-
+p1:Houston,El Paso-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Toronto,Duluth-Omaha,Helena-Helena,Duluth-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p1:Houston,El Paso-Miami,New Orleans-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p2:Toronto,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Miami,Atlanta-Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-
+p1:Toronto,Duluth-Helena,Seattle-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-El Paso,Oklahoma City-Miami,Atlanta-Portland,San Francisco-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Seattle-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-
+p2:Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Houston,El Paso-New Orleans,Miami-Helena,Seattle-Miami,Atlanta-Winnipeg,Calgary-Winnipeg,Sault St Marie-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Omaha,Helena-Helena,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Calgary-
+p2:Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Seattle,Helena-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-Winnipeg,Calgary-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Houston,El Paso-Omaha,Helena-El Paso,Los Angeles-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Toronto,Duluth-Seattle,Helena-Miami,New Orleans-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Omaha,Helena-Helena,Seattle-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:Houston,El Paso-El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Winnipeg,Calgary-San Francisco,Portland-
+p1:Toronto,Duluth-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Miami,Atlanta-Miami,New Orleans-Helena,Duluth-Helena,Seattle-Salt Lake City,San Francisco-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Salt Lake City,San Francisco-Salt Lake City,Portland-
+p2:Omaha,Helena-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p1:Toronto,Duluth-Omaha,Helena-Helena,Duluth-Helena,Seattle-El Paso,Los Angeles-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:El Paso,Oklahoma City-Helena,Duluth-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Houston,El Paso-Helena,Seattle-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-
+p1:Toronto,Duluth-Omaha,Helena-Helena,Duluth-Helena,Seattle-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p1:Toronto,Duluth-Houston,El Paso-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p2:Helena,Duluth-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p1:Seattle,Helena-Miami,New Orleans-Pittsburgh,Saint Louis-Helena,Duluth-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-
+p2:Toronto,Duluth-Houston,El Paso-Miami,Atlanta-Oklahoma City,El Paso-El Paso,Los Angeles-Winnipeg,Calgary-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Omaha,Helena-Helena,Duluth-Miami,Atlanta-Winnipeg,Calgary-Winnipeg,Sault St Marie-San Francisco,Portland-
+p2:Helena,Seattle-Miami,New Orleans-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Duluth-Miami,Atlanta-Portland,San Francisco-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p2:Toronto,Duluth-New Orleans,Miami-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-San Francisco,Portland-
+p1:Houston,El Paso-New Orleans,Miami-Helena,Seattle-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Omaha,Helena-Helena,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-El Paso,Oklahoma City-Miami,New Orleans-Helena,Duluth-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-El Paso,Oklahoma City-Helena,Duluth-Winnipeg,Calgary-Salt Lake City,Portland-Sault St Marie,Montreal-
+p2:New Orleans,Miami-Helena,Seattle-Miami,Atlanta-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-Helena,Duluth-Helena,Seattle-Miami,Atlanta-Miami,New Orleans-Salt Lake City,San Francisco-Sault St Marie,Montreal-
+p2:Omaha,Helena-El Paso,Los Angeles-Winnipeg,Calgary-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Toronto,Duluth-Houston,El Paso-New Orleans,Miami-Helena,Seattle-Miami,Atlanta-Winnipeg,Calgary-Salt Lake City,San Francisco-
+p2:Helena,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-San Francisco,Portland-
+p1:Houston,El Paso-Helena,Duluth-El Paso,Oklahoma City-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-Salt Lake City,Portland-Montreal,Sault St Marie-San Francisco,Portland-
+p2:Toronto,Duluth-Seattle,Helena-Miami,New Orleans-El Paso,Los Angeles-Winnipeg,Calgary-San Francisco,Portland-
+p1:Toronto,Duluth-El Paso,Oklahoma City-El Paso,Los Angeles-Helena,Duluth-Winnipeg,Calgary-Salt Lake City,Portland-San Francisco,Portland-
+p2:Houston,El Paso-New Orleans,Miami-Miami,Atlanta-Helena,Seattle-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-San Francisco,Portland-
+p1:Toronto,Duluth-Helena,Duluth-Miami,Atlanta-Miami,New Orleans-El Paso,Oklahoma City-El Paso,Los Angeles-Winnipeg,Sault St Marie-Salt Lake City,San Francisco-
+p2:Houston,El Paso-Omaha,Helena-Helena,Seattle-Winnipeg,Calgary-Salt Lake City,San Francisco-Salt Lake City,Portland-Sault St Marie,Montreal-

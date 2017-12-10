@@ -41,7 +41,7 @@ class randomAIPlayer(Player):
         print(edgeCompletion)
         return edgeCompletion
 
-    def makeTurnChoice(self, fullBoard, board):
+    def makeTurnChoice(self, fullBoard, board, deck):
         self.numTurns += 1
         print("Turn number {}".format(self.numTurns))
         paths = self.getPathsInProgress(fullBoard, board)
