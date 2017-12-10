@@ -1,5 +1,6 @@
 TicketToRide
 ============
+Ticket to Ride AI implementations are based off of the framework here: https://github.com/CodeProgress/TicketToRide
 
 How to run: python AIGame.py --num_ai 2 --num_human 0 --ai_strategies tickets,route
 
